@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "8T28SGLM79.com.iseeyou.research"
+        ],
+        "components": [
+          {
+            "/": "/iseeyou/*",
+            "comment": "I See You Meta glasses registration callbacks only"
+          }
+        ]
+      }
+    ]
+  }
+}
